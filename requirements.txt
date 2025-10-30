@@ -1,0 +1,30 @@
+# Multi-Agent Grant Proposal Generator
+# Requirements for Hugging Face Spaces
+
+# Core dependencies
+python-dateutil==2.8.2
+colorama
+
+# Groq API with compatible httpx
+groq==0.4.1
+httpx==0.24.1
+
+# PDF processing
+pypdf==3.17.4
+
+# JSON parsing & validation
+pydantic==2.5.3
+
+# Environment variables
+python-dotenv==1.0.0
+
+# Gradio Web UI (HF compatible versions)
+huggingface-hub==0.20.0
+gradio==4.36.0
+
+# Export to DOCX/PDF
+python-docx==1.1.0
+reportlab==4.2.0
+
+# Optional utilities
+tqdm==4.66.1
