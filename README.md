@@ -47,8 +47,8 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/multi-agent-grant-proposal.git
-cd multi-agent-grant-proposal
+git clone https://github.com/AyobamiMichael/grant-proposal-generator.git
+cd grant-proposal-generator
 ```
 
 ### 2. Install Dependencies
@@ -297,30 +297,9 @@ python verify_setup.py
 
 ---
 
-## 🚀 Deployment
 
-### Docker
 
-```bash
-docker build -t grant-proposal-generator .
-docker run -p 7860:7860 -e GROQ_API_KEY=your_key grant-proposal-generator
-```
 
-### Railway
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template)
-
-See [DEPLOYMENT.md](docs/DEPLOYMENT.md) for details.
-
-### Render
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
-
-### Hugging Face Spaces
-
-See [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md) for step-by-step guide.
-
----
 
 ## 🤝 Contributing
 
@@ -354,9 +333,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/multi-agent-grant-proposal/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/multi-agent-grant-proposal/discussions)
-- **Email**: your.email@example.com
+- **Issues**: [GitHub Issues](https://github.com/AyobamiMichael/grant-proposal-generator/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/AyobamiMichael/grant-proposal-generator/discussions)
+- **Email**: ayobamiwealth@gmail.com
 
 ---
 
@@ -375,10 +354,10 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 ## 📈 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/multi-agent-grant-proposal)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/multi-agent-grant-proposal)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/multi-agent-grant-proposal)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/multi-agent-grant-proposal)
+![GitHub stars](https://img.shields.io/github/stars/https://github.com/AyobamiMichael/grant-proposal-generator)
+![GitHub forks](https://img.shields.io/github/https://github.com/AyobamiMichael/grant-proposal-generator)
+![GitHub issues](https://img.shields.io/github/issues/https://github.com/AyobamiMichael/grant-proposal-generator)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/https://github.com/AyobamiMichael/grant-proposal-generator)
 
 ---
 
